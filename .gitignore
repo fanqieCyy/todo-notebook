@@ -1,0 +1,7 @@
+/data/
+/build/
+/backups/
+*.exe
+*.bak
+*.tmp
+/assets/custom.png
